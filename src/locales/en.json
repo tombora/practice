@@ -1,0 +1,23 @@
+{
+  "header": {
+    "home": "Home",
+    "attractions": "Attractions",
+    "tourism": "Tourism",
+    "relocation": "Relocation",
+    "business": "Business",
+    "news": "News & Events",
+    "contact": "Contact"
+  },
+  "footer": {
+    "sitemap": "Sitemap",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "accessibility": "Accessibility",
+    "copyright": "© 2025 Koshigaya City. All rights reserved."
+  },
+  "home": {
+    "catchphrase": "Where Comfortable Living Harmonizes with Nature - Vibrant Koshigaya",
+    "welcome": "Welcome to Koshigaya City",
+    "description": "Just 30 minutes from central Tokyo. Discover Koshigaya, a charming city rich in nature and comfortable living."
+  }
+}

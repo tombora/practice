@@ -1,0 +1,23 @@
+{
+  "header": {
+    "home": "ホーム",
+    "attractions": "越谷の魅力",
+    "tourism": "観光情報",
+    "relocation": "移住・定住",
+    "business": "ビジネス",
+    "news": "ニュース・イベント",
+    "contact": "お問い合わせ"
+  },
+  "footer": {
+    "sitemap": "サイトマップ",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシーポリシー",
+    "accessibility": "アクセシビリティ方針",
+    "copyright": "© 2025 越谷市. All rights reserved."
+  },
+  "home": {
+    "catchphrase": "暮らしやすさと自然が調和する、活気あふれる越谷",
+    "welcome": "越谷市へようこそ",
+    "description": "東京都心から約30分。自然豊かで暮らしやすい、魅力あふれる街、越谷市をご紹介します。"
+  }
+}
